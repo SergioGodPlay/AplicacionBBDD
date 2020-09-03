@@ -10,7 +10,14 @@ namespace AppConsola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Katie y Sergio");
+            Console.WriteLine("Sergio y Katie");
+
+            int numero = 4;
+
+            if(numero == 4)
+            {
+                Console.WriteLine("Es el numero 4");
+            }
         }
     }
 }
