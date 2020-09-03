@@ -10,7 +10,7 @@ namespace AplicacionBBDD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sergio y Katie");
+            
         }
     }
 }
