@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace AplicacionBBDD
 {
-    class Program
+    class Persona
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Sergio y Katie"); 
-        }
+        public int MyProperty { get; set; }
     }
 }
- 
